@@ -28,7 +28,7 @@ function updateTime()
 
     if(date.toString.length != 2)
     {
-        date = "0" + date;
+        //date = "0" + date;
     }
   
     if(hours.length != 2)
