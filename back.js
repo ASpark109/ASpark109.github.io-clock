@@ -48,8 +48,8 @@ function updateTime()
 
     //Data update
     clock.textContent = hours + ":" + minutes;
-    color.textContent = "#" + minutes + seconds + hours;
-    bodyColor.style.background = "#" + minutes + seconds + hours;
+    color.textContent = "#" + hours + minutes + seconds;
+    bodyColor.style.background = "#" + hours + minutes + seconds;
     dateClock.textContent = monthsArr[months] + " | " + date + " | " + daysArr[day];
 }
 
