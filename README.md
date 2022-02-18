@@ -5,6 +5,7 @@ The background of the page changes depending on the time. The color is encoded a
 
 Example
 -------
-16:23:46
+22:34:57
 
-#162346 - new color
+#223457 - new color
+![clock](https://user-images.githubusercontent.com/75342698/154770393-4776640d-9d44-400a-bd9c-987bee2cb267.png)
